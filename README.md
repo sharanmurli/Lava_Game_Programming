@@ -1,2 +1,4 @@
 # Lava_Game
-Essentials of real-time 3D
+Essentials of programming 
+
+Unity project where scripts programmatically alter object properties
